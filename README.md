@@ -1,6 +1,6 @@
 # My build dmenu
 
-Extra stuff added to vanilla dmenu into order of the applyed patches:
+Extra stuff added to vanilla dmenu (version 6.4) into order of the applyed patches:
 
 1. [dmenu-password-5.0](https://tools.suckless.org/dmenu/patches/password/dmenu-password-5.0.diff) `-P` for password mode: hide user input
 2. [dmenu-mousesupport-5.2](https://tools.suckless.org/dmenu/patches/mouse-support/dmenu-mousesupport-5.2.diff) dmenu options are mouse clickable
